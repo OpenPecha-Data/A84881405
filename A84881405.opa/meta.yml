@@ -1,0 +1,22 @@
+id: A84881405
+title: 'Asaṅga/Maitreya: Ratnagotravibhāga'
+type: translation
+pechas:
+- I58921918
+- IF1420C44
+- IFA3C0BDB
+- I4B88DBF5
+source_metadata:
+  languages:
+  - sa
+  - zh
+  - bo
+  - en
+  datatype: PlainText
+  created_at: 2023-02-10 00:24:38.155946
+  last_modified_at: 2023-02-10 00:24:38.155963
+alignment_to_base:
+  I58921918/EA9C: D707
+  IF1420C44/CEA8: D707
+  IFA3C0BDB/E540: D707
+  I4B88DBF5/0E30: D707
